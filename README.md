@@ -37,3 +37,6 @@ This project controls a robotic arm using joystick input. Four servos manage the
 1. Clone the repository:
    ```bash
    git clone <https://github.com/P-Shreyas543/Joystick-Based-Robotic-Arm-Control-System/tree/main>
+
+![image](https://github.com/user-attachments/assets/7aeafe79-b6d5-49e4-a5eb-d6f6980a17eb)
+
