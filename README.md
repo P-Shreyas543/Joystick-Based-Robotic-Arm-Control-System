@@ -76,3 +76,7 @@ This project controls a robotic arm using joystick input. Four servos manage the
 
 - [Arduino Servo Library](https://www.arduino.cc/en/Reference/Servo) for servo control.
 
+## Cotribution
+Feel free to contribute to this project by submitting issues, suggestions, or improvements via GitHub.
+For any additional questions or support, please contact [Shreyas P](mailto:shreyasp182002@gmail.com).
+
