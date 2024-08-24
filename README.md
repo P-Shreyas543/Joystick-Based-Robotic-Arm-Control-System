@@ -34,9 +34,45 @@ This project controls a robotic arm using joystick input. Four servos manage the
 
 ## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone <https://github.com/P-Shreyas543/Joystick-Based-Robotic-Arm-Control-System/tree/main>
+1. **Download and Install the Arduino IDE**
+   - Go to the [Arduino IDE download page](https://www.arduino.cc/en/software) and download the version suitable for your operating system.
+   - Install the Arduino IDE following the provided instructions.
+
+2. **Install Required Libraries**
+   - Open the Arduino IDE.
+   - Go to **Sketch** > **Include Library** > **Manage Libraries...**
+   - In the Library Manager, search for "Servo" and install the **Servo** library if it is not already installed.
+
+3. **Clone the Repository**
+   - Clone the repository to your local machine using:
+     ```bash
+     git clone <https://github.com/P-Shreyas543/Joystick-Based-Robotic-Arm-Control-System/tree/main>
+     ```
+
+4. **Open the Project**
+   - Open the `RoboticArmControl.ino` file in the Arduino IDE.
+
+5. **Upload the Code**
+   - Connect your Arduino or compatible microcontroller to your computer using a USB cable.
+   - Select the correct board and port in the Arduino IDE under **Tools** > **Board** and **Tools** > **Port**.
+   - Click the **Upload** button to transfer the code to your microcontroller.
+  
+## Usage
+
+1. **Power the Microcontroller and Servos**
+   - Ensure that your microcontroller and servos are properly powered.
+
+2. **Open the Serial Monitor**
+   - In the Arduino IDE, open the serial monitor to view real-time feedback from the system.
+
+3. **Control the Robotic Arm**
+   - Use the joystick to control the movements of the robotic arm.
+
+## Final Assembly of Robotic Arm with Joystick Control
 
 ![image](https://github.com/user-attachments/assets/7aeafe79-b6d5-49e4-a5eb-d6f6980a17eb)
+
+## Acknowledgements
+
+- [Arduino Servo Library](https://www.arduino.cc/en/Reference/Servo) for servo control.
 
