@@ -19,8 +19,7 @@ This project controls a robotic arm using joystick input. Four servos manage the
 - **Control**: Adjusts servo positions based on mapped values and displays feedback on the serial monitor.
 
 ## Wiring
-![Uploading Joystick Controlled Robot Arm.png…]()
-
+![Joystick Controlled Robot Arm](https://github.com/user-attachments/assets/2914ff61-ba5a-4a3f-89ec-75772b6fea04)
 1. Connect the servos to the specified pins on the microcontroller:
    - Horizontal Servo: Pin 5
    - Vertical Servo: Pin 6
@@ -37,4 +36,4 @@ This project controls a robotic arm using joystick input. Four servos manage the
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/P-Shreyas543/Joystick-Based-Robotic-Arm-Control-System/tree/main>
